@@ -1,0 +1,360 @@
+header .navbar {
+  width: 1466px;
+  border-bottom: 1px solid #e6e6e6;
+  display: flex;
+  padding-bottom: 24px;
+  margin-left: 28px;
+}
+header .navbar img {
+  cursor: pointer;
+  width: 16px;
+  height: 16px;
+}
+header .navbar .search {
+  margin-top: 26px;
+}
+header .navbar h1 {
+  font-family: "Clash Display";
+  font-size: 24px;
+  margin-top: 20px;
+  margin-left: 643px;
+}
+header .navbar .shoping {
+  margin-top: 26px;
+  margin-left: 700px;
+}
+header .navbar .user {
+  margin-top: 26px;
+  margin-left: 16px;
+}
+header .nav {
+  margin-top: 20px;
+  display: flex;
+  gap: 44px;
+}
+header .nav .plant {
+  margin-left: 382px;
+}
+
+main {
+  margin: 1000px auto;
+}
+main .bak {
+  height: 704px;
+  margin-top: 20px;
+  background-image: url(../../../img/navbar/866-1440x704.webp);
+}
+main .bak .sott {
+  padding-top: 130px;
+}
+main .bak .luher {
+  margin-left: 730px;
+  background-color: #fff;
+  width: 630px;
+  height: 444px;
+}
+main .bak .luher .lux {
+  padding-top: 48px;
+  margin-left: 56px;
+  width: 513px;
+  height: 90px;
+  font-size: 32px;
+  color: #22202E;
+}
+main .bak .luher .the {
+  margin-top: 20px;
+  margin-left: 56px;
+  width: 343px;
+  height: 27px;
+  font-size: 18px;
+  color: #5B5676;
+}
+main .bak .luher .view {
+  margin-top: 157px;
+  margin-left: 56px;
+  width: 106px;
+  height: 24px;
+  font-size: 16px;
+  color: #2A254B;
+}
+main .main .what {
+  width: 366px;
+  height: 34px;
+  font-size: 24px;
+  line-height: 33px;
+  margin-left: 629px;
+  margin-top: 80px;
+}
+main .main .div {
+  display: flex;
+}
+main .main .div .main_bir {
+  margin-top: 84px;
+  margin-left: 130px;
+}
+main .main .div .main_bir p {
+  margin-top: 12px;
+}
+main .main .div .main_bir .neht {
+  font-size: 20px;
+}
+main .main .div .main_bir .order {
+  font-size: 16px;
+  width: 209px;
+  height: 72px;
+}
+main .reklama {
+  margin-top: 100px;
+  gap: 30px;
+  display: flex;
+}
+main .reklama .rek_bir {
+  margin-left: 80px;
+}
+main .reklama .rek_bir img {
+  width: 305px;
+  height: 375px;
+}
+main .reklama .the {
+  margin-top: 24px;
+  color: #2A254B;
+  font-size: 20px;
+}
+main .reklama .e {
+  margin-top: 8px;
+  font-size: 18px;
+  color: #2A254B;
+}
+main .reklama_rel .wiev {
+  width: 106px;
+  height: 24px;
+  margin-left: 667px;
+  font-size: 16px;
+  margin-top: 64px;
+  color: #2A254B;
+}
+main .reklama_rel .pass {
+  margin-top: 116px;
+  display: flex;
+  gap: 16px;
+}
+main .reklama_rel .pass .color_blue {
+  margin-left: 80px;
+  background-color: #2A254B;
+  width: 634px;
+  height: 478px;
+  color: #fff;
+}
+main .reklama_rel .pass .color_blue .it {
+  padding-top: 64px;
+  padding-left: 64px;
+  font-size: 32px;
+}
+main .reklama_rel .pass .color_blue .global {
+  width: 495px;
+  height: 48px;
+  font-size: 16px;
+  margin-left: 64px;
+  margin-top: 12px;
+}
+main .reklama_rel .pass .color_blue button {
+  padding: 16px 32px 16px 32px;
+  cursor: pointer;
+  border: 0px;
+  margin-top: 205px;
+  margin-left: 64px;
+  background-color: #494465;
+}
+main .reklama_rel .pass .color_img img {
+  width: 630px;
+  height: 478px;
+}
+main form {
+  background-image: url(../../../img/bar/blur_5.webp);
+}
+main form .pp {
+  padding-top: 100px;
+  margin-left: 473px;
+  font-size: 32px;
+  color: #fff;
+}
+main form .ppp {
+  width: 470px;
+  height: 54px;
+  margin-top: 12px;
+  color: #fff;
+  margin-left: 485px;
+  font-size: 18px;
+}
+main .chek {
+  align-items: center;
+  display: flex;
+  color: #fff;
+}
+main .chek #chek {
+  margin-left: 463px;
+}
+main .chek .form-check {
+  margin-left: 36px;
+}
+main .foo {
+  margin-left: 484px;
+  margin-top: 40px;
+}
+main .foo input {
+  padding: 17px 205px 17px 32px;
+  margin-bottom: 86px;
+}
+main .foo input:hover {
+  background-color: rgb(226, 221, 221);
+}
+main .foo button {
+  padding: 16px 32px 16px 32px;
+  background-color: #2A254B;
+}
+main .foo button:hover {
+  background-color: #373065;
+}
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v5.0.2 | 20191019
+   License: none (public domain)
+*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section {
+  display: block;
+}
+
+/* HTML5 hidden-attribute fix for newer browsers */
+*[hidden] {
+  display: none;
+}
+
+body {
+  line-height: 1;
+}
+
+menu,
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}/*# sourceMappingURL=style.css.map */
